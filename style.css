@@ -1,0 +1,89 @@
+body{
+    background-color: #6e2594;
+    font-family: sans-serif;
+}
+#tabla{
+    border-spacing: 20px;
+}
+#tabla1{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px auto;
+    align-items: center;
+    border-color: #ECd444;
+    outline-color: aliceblue;
+    border-spacing: 20px;
+}
+#tabla5{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px auto;
+    align-items: center;
+    border-color: #ECd444;
+    outline-color: aliceblue;
+    border-spacing: 20px;
+}
+#tabla6{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px auto;
+    align-items: center;
+    border-color: #ECd444;
+    outline-color: aliceblue;
+    border-spacing: 20px;
+}
+#tabla7{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px auto;
+    align-items: center;
+    border-color: #ECd444;
+    outline-color: aliceblue;
+    border-spacing: 20px;
+}
+#tabla1 td  {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+#tabla5 td  {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+#tabla6 td  {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+#tabla7 td  {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+button{
+    background-color: #ECd444;
+}
+#sphere {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; /* Color de la esfera */
+    border-radius: 50%; /* Hace que sea una esfera */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white; /* Color del número */
+}
